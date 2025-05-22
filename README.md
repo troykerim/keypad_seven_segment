@@ -1,1 +1,1 @@
-# keypad_seven_segment
+# keypad with seven segment on Zybo Z7-10
