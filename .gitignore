@@ -40,3 +40,4 @@
 *.lpr 
 
 *kypd_ssd_git/kypd_ssd_git.srcs/constrs_1/imports/contraint/zybo-Z710.xdc
+!kypd_ssd_git.tcl
